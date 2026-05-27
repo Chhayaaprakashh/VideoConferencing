@@ -1,3 +1,4 @@
+````md
 # Connectify – Peer-to-Peer Video Conferencing Platform
 
 Connectify is an open-source peer-to-peer video conferencing web application built using WebRTC technology. The platform enables users to communicate in real time through video and audio directly in the browser without requiring any external software installation.
@@ -32,7 +33,6 @@ Users can join meetings either through login authentication or as guests. The ap
 
 - Node.js
 - Express.js
-- Socket.io
 
 ### Real-Time Communication
 
@@ -53,21 +53,47 @@ Users can join meetings either through login authentication or as guests. The ap
 4. WebRTC establishes peer-to-peer communication between connected users.
 5. Real-time audio and video streams are exchanged directly between participants.
 
-Navigate to the project directory:
+---
+
+## Installation
+
+### Navigate to the project directory
+
+```bash
 cd connectify
-Install dependencies
+```
+````
+
+### Install dependencies
+
+```bash
 npm install
-Start the development server
+```
+
+### Start the development server
+
+```bash
 npm start
+```
 
-Future Improvements:
-Multiple meeting rooms
-Screen sharing
-Chat functionality
-Meeting recording
-Participant controls
-End-to-end encryption
-Room-based authentication
+---
 
-Project Objective
+## Future Improvements
+
+- Multiple meeting rooms
+- Screen sharing
+- Chat functionality
+- Meeting recording
+- Participant controls
+- End-to-end encryption
+- Room-based authentication
+
+---
+
+## Project Objective
+
 The objective of this project is to create an accessible and lightweight video conferencing platform using peer-to-peer communication technologies while exploring real-time web application development with WebRTC.
+
+```
+
+```
