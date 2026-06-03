@@ -1,4 +1,6 @@
 ````md
+Sync Meet
+
 # Connectify – Peer-to-Peer Video Conferencing Platform
 
 Connectify is an open-source peer-to-peer video conferencing web application built using WebRTC technology. The platform enables users to communicate in real time through video and audio directly in the browser without requiring any external software installation.
